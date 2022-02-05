@@ -1,4 +1,5 @@
 # Desaf-o-Opcional---Modelamiento-de-datos
+
 Desafío Opcional - Modelamiento de datos
 ● Para realizar este desafío debes haber estudiado previamente todo el material
 disponibilizado correspondiente a la unidad.
@@ -10,7 +11,7 @@ El desafío está basado en los siguientes capítulos de la lectura:
 ● Modelo conceptual.
 ● Cardinalidad.
 ● El modelo lógico.
-_
+\_
 
 Descripción
 En el siguiente problema se debe entregar como resultado; el modelo lógico del caso
