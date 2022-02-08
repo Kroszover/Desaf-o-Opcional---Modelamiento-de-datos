@@ -1,4 +1,4 @@
-# Desaf-o-Opcional---Modelamiento-de-datos
+# Desafio-Opcional---Modelamiento-de-datos
 
 Desafío Opcional - Modelamiento de datos
 
